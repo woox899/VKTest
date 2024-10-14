@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "AvaKat.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
